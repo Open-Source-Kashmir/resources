@@ -1,6 +1,6 @@
 # Awesome Open Source Resources
 
-A curated list for beginners from Kashmir to kickstart their open source journey.
+A curated list for beginners from Kashmir to kickstart their open-source journey.
 
 ## 🚀 Getting Started
 - [What is Open Source?](https://opensource.guide/)
